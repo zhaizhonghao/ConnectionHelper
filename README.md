@@ -1,0 +1,1 @@
+# A tool for generate the generate-ccp.sh file according to the number of organizations
